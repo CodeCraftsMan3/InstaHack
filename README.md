@@ -42,7 +42,8 @@ $ ./insta.sh
 <a href="https://www.instagram.com/rocketman_mega/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=NRocketmann)](https://github.com/r0cketp0wer/github-readme-twitter)
+[![Stargazers repo roster for @r0cketp0wer/InstaHack](https://reporoster.com/stars/r0cketp0wer/InstaHack)](https://github.com/r0cketp0wer/InstaHack/stargazers)
 
-### Stargazers
-[![Stargazers repo roster for @r0cketp0wer/Instahack](https://reporoster.com/stars/r0cketp0wer/Instahack)](https://github.com/\r0cketp0wer/Instahack)
+
+[![Forkers repo roster for @r0cketp0wer/InstaHack](https://reporoster.com/forks/r0cketp0wer/InstaHack)](https://github.com/r0cketp0wer/InstaHack/network/members)
+T
