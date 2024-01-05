@@ -1,5 +1,7 @@
 # Instahack
 
+## Please leave a ⭐ as motivation if you liked the implementation 😄
+
 <p align="center">
   <img src="https://img.shields.io/badge/Version-0.0.1-green?style=for-the-badge">
   <img src="https://img.shields.io/github/license/r0cketp0wer/Instahack?style=for-the-badge">
